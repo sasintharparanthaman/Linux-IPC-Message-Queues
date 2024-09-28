@@ -88,11 +88,9 @@ int main()
 
 
 
+
 # RESULT:
 The programs are executed successfully.
-
-
-
 
 # RESULT:
 The programs are executed successfully.
